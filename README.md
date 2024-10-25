@@ -2,7 +2,7 @@ https://docs.openvehicles.com/en/latest/components/vehicle_dbc/docs/dbc-primer.h
 
 ## TODO
 
-decode hex data stream (type ASCII) into a hex array 
+decode hex data stream (CAN MESSAGE) (type ASCII) into a hex array 
 
 ```python
 
